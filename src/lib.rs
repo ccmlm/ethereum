@@ -19,3 +19,5 @@ pub use header::{Header, PartialHeader};
 pub use log::Log;
 pub use receipt::*;
 pub use transaction::*;
+
+pub use ethereum_types;
